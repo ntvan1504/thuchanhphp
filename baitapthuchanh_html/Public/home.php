@@ -21,7 +21,7 @@ $listPost = $posts->buildQueryParams([
         <meta name="description" content="">
         <meta name="author" content="">
 
-        <title>Clean Blog - Start Bootstrap Theme</title>
+        <title>Đồ ăn thức uống - Trang tin sốt nóng</title>
 
         <!-- Bootstrap core CSS -->
         <link href="../startbootstrap-clean-blog-gh-pages/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -41,7 +41,7 @@ $listPost = $posts->buildQueryParams([
         <!-- Navigation -->
         <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
             <div class="container">
-                <a class="navbar-brand" href="index.html">Đồ ăn thức uống</a>
+                <a class="navbar-brand" href="<?php echo $router->createUrl('home') ?>">Đồ ăn thức uống</a>
                 <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                     Menu
                     <i class="fas fa-bars"></i>

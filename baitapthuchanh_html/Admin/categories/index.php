@@ -17,7 +17,7 @@ $router = new Apps_Libs_Router();
         <meta name="description" content="">
         <meta name="author" content="">
 
-        <title>SB Admin 2 - Bootstrap Admin Theme</title>
+        <title>Admin Categories - Đồ ăn thức uống</title>
 
         <!-- Bootstrap Core CSS -->
         <link href="../startbootstrap-sb-admin-2-gh-pages/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
