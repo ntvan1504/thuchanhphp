@@ -64,13 +64,13 @@ $listPost = $posts->buildQueryParams([
         </nav>
 
         <!-- Page Header -->
-        <header class="masthead" style="background-image: url('../startbootstrap-clean-blog-gh-pages/img/comidatrump.jpg')">
+        <header class="masthead" style="background-image: url('../startbootstrap-clean-blog-gh-pages/img/food.jpg')">
             <div class="overlay"></div>
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 col-md-10 mx-auto">
                         <div class="site-heading">
-                            <h1>WEBSITE TIN TỨC</h1>
+                            <h1>ĐỒ ĂN NÓNG SỐT</h1>
                             <span class="subheading">Tin tức nóng hổi về đồ ăn</span>
                         </div>
                     </div>
