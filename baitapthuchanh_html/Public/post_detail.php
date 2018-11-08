@@ -79,8 +79,8 @@ if ($id) {
               <div class="post-heading">
               <h1><?= $postDetail["name"] ?></h1>
               <h2 class="subheading"><?= $postDetail["description"] ?></h2>
-              <span class="meta" style="color: orange;">Posted by
-                <a class="doan" href="#" style="color: orange;">Đồ ăn thức uống</a>
+              <span class="meta">Posted by
+                <a class="doan" href="#">Đồ ăn thức uống</a>
                 on <?= $postDetail["created_time"] ?></span>
             </div>
           </div>
